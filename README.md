@@ -1,2 +1,2 @@
 # Newican
-beging a new adventure
+A new adventure
