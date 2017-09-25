@@ -1,2 +1,0 @@
-# Newican
-A new adventure
